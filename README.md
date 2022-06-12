@@ -10,7 +10,7 @@ This is a repository made to complete The Odin Project's Landing Page assignment
 
 ## Color Palette
 * Firefly #091421
-* Heather #BBC4D0
+* Milk #F9FAF8
 * Azure #2B64A5
 * Havelock Blue #57A1D9
 
