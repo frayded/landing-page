@@ -8,11 +8,14 @@ body {
     margin: 0;
 }
 
+
+
 .header,
-.content {
+.footer {
+    padding: 0 80px;
     display: flex;
     background-color: #091421;
-    color: #bbc4d0;
+    color: #f9faf8;
     align-items: center;
     justify-content: center;
 }
@@ -26,6 +29,8 @@ body {
 
 .header .links ul {
     display: flex;
+    align-items: center;
+    justify-content: center;
     list-style-type: none;
     gap: 16px;
     margin-left: auto;
@@ -34,17 +39,103 @@ body {
 
 .header a {
     text-decoration: none;
-    color: #bbc4d0;
+    color: #f9faf8;
 }
 
-.content .first .text,
-.content .first img {
-    width: 40%;
+.one {
+    display: flex;
+    background-color: #091421;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    padding: 80px;
+}
+
+.one .text {
+    width: 500%;
+    padding: 24px;
+    color: #f9faf8;
+    margin-right: auto;
+}
+
+.one .text .bold {
+    font-size: 48px;
+    font-weight: bolder;
+    margin-bottom: 16px;
+    margin-top: 0;
+}
+
+.one .text .normal {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.one .image p {
+    color: #f9faf8;;
+    padding-right: 72px;
+    margin: 0;
+    margin-left: auto;
+    width: 200px;
+    text-align: right;
+}
+
+.one img {
+    padding: 48px 64px;
+    width: 600px;
+    height: 300px;
+    margin-left: auto;
     object-fit: cover;
-    padding: 40px;
+    object-position: center;
 }
 
-/* .second,
-.second .header{
-    background-color: #BBC4D0;
-} */
+.two {
+    display: flex;
+    flex-direction: column;
+    background-color: #f9faf8;
+    align-items: center;
+    justify-content: center;
+}
+
+.two .header {
+    background-color: #f9faf8;
+    color: #091421;
+    font-weight: bolder;
+    font-size: 36px;
+    padding: 32px;
+}
+
+.two .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.two .content .info img {
+    width: 200px;
+    height: 200px;
+    border: 4px solid;
+    border-radius: 10%;
+    border-color: #57A1D9;
+}
+
+.two .content .info p {
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
+
+button {
+    border-radius: 10%;
+    color: #f9faf8;
+    padding: 8px 24px;
+    background-color: #57A1D9;
+    font-size: 14px;
+    border: none;
+    font-weight: bold;
+}
+
+.footer {
+    padding: 32px;
+}
