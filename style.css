@@ -8,8 +8,6 @@ body {
     margin: 0;
 }
 
-
-
 .header,
 .footer {
     padding: 0 80px;
@@ -34,7 +32,9 @@ body {
     list-style-type: none;
     gap: 16px;
     margin-left: auto;
-    padding: 16px 24px;
+    padding: 16px;
+    padding-right: 64px;
+    font-size: 18px;
 }
 
 .header a {
@@ -109,6 +109,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
     gap: 40px;
 }
 
@@ -121,10 +122,12 @@ body {
 }
 
 .two .content .info p {
-    width: 200px;
+    width: 210px;
     height: auto;
     text-align: center;
 }
+
+.
 
 button {
     border-radius: 10%;
