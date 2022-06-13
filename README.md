@@ -1,5 +1,7 @@
-# landing-page
-This is a repository made to complete The Odin Project's Landing Page assignment.
+# Cityscape Night Gallery Landing Page
+This is a repository made to complete The Odin Project's Landing Page assignment. Titled as "Cityscape Night Gallery", I used photos with the aforementioned theme.
+
+##
 
 ## Image Credits
 * Black outdoor pedestal lamp near coaster train rail by Justin Hamilton: https://www.pexels.com/photo/black-outdoor-pedestal-lamp-near-coaster-train-rail-92248/
@@ -11,7 +13,7 @@ This is a repository made to complete The Odin Project's Landing Page assignment
 ## Color Palette
 * Firefly #091421
 * Milk #F9FAF8
+* Heather #BBC4D0
 * Azure #2B64A5
 * Havelock Blue #57A1D9
 
-##
