@@ -1,7 +1,12 @@
 # Cityscape Night Gallery Landing Page
 This is a repository made to complete The Odin Project's Landing Page assignment. Titled as "Cityscape Night Gallery", I used photos with the aforementioned theme.
 
-##
+## Thoughts
+Honestly speaking, this is not my first time doing this project. I archived my first attempt with this project. And it looks like I didn't grow much in terms of making the page responsive. On the other hand, I'm pretty satisfied with this attempt as I understood flexbox layouting better this time.
+<br>
+Structure wise, I also like this better. Is this optimal? I would guess not but that's something you learn to be better as you go.
+<br>
+All in all, I like this project. Hopefully I can go back to this and fixing things that could be better later on as I progress.
 
 ## Image Credits
 * Black outdoor pedestal lamp near coaster train rail by Justin Hamilton: https://www.pexels.com/photo/black-outdoor-pedestal-lamp-near-coaster-train-rail-92248/
